@@ -29,4 +29,7 @@ Ele puxa do repositório remoto (nuvem) os dados atualizados para a maquina loca
 
 #Criação de Issues
 
-Ele serve como ferrameta de acompanhamento indicando quando
+Ele serve como ferrameta de acompanhamento indicando quando queremos descrever os problemas que temos nos projetos para que sejam resolvidos por qualquer pessoa que quiser contribuir
+
+#Organização com Milestone
+
