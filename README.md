@@ -45,6 +45,8 @@ Ele serve como ferrameta de acompanhamento indicando quando queremos descrever o
 
 Ela é um marco que agrupa Issues relacionadas funcionando quase como um filtro, permitindo acompanhar progresso e auxiliando no controle de prazos
 
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/a8368954abcf4d1bbdf10fe3cd944bdc9303f832/milestone.png)
+
 # **Gerenciamento com Project**
 
 É uma ferramenta que se integra aos issues e pull requests ajudando na organização geral do projeto em equipes informando de forma visual como está o andamentos dos projetos
@@ -56,3 +58,5 @@ Solicitação para integrar alterações(não feito)
 # **Realização de Merge**
 
 Ele integra branch à branch principal e palicando officialmente as alterações feitas
+
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/a8368954abcf4d1bbdf10fe3cd944bdc9303f832/pull%20request%20and%20branch.png)
