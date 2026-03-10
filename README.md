@@ -9,6 +9,8 @@ De maneira local em uma maquina ou remotamente pela nuvem do proprio github.
 
 Ele cria um clone/cópia de todo o conteúdo do repositório remoto e envia para a máquina local
 
+![repositório](https://fasouza.edu.br/repositorio)
+
 # **Branch:**
 
 Ele cria uma cópia do repositório original com o intuito de fazer alterações no projeto mas sem comprometer o projeto principal.
