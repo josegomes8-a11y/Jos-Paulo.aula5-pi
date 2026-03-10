@@ -9,7 +9,7 @@ De maneira local em uma maquina ou remotamente pela nuvem do proprio github.
 
 Ele cria um clone/cópia de todo o conteúdo do repositório remoto e envia para a máquina local
 
-![repositório]([https://fasouza.edu.br/repositorio](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/533ec290f5bf9decc5762e0936ac4948c1fa33db/repositorio-fasouza.png))
+![image alt]([https://fasouza.edu.br/repositorio](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/533ec290f5bf9decc5762e0936ac4948c1fa33db/repositorio-fasouza.png))
 
 # **Branch:**
 
