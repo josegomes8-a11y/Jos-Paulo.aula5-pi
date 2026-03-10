@@ -1,13 +1,13 @@
 # Jos-Paulo.aula5-pi
 
-#Repositório:
+#**Repositório:**
 
 O repositorio é o local onde todo o projeto (codigo fonte,registro de alterações, arquivos do projeto) está localizado.
 De maneira local em uma maquina ou remotamente pela nuvem do proprio github.
 
 #clone do repositório:
 
-Ele cria um clone/cópia de todo o conteúdo do repositório escolhido
+Ele cria um clone/cópia de todo o conteúdo do repositório remoto e envia para a máquina local
 
 #Branch:
 
@@ -33,3 +33,16 @@ Ele serve como ferrameta de acompanhamento indicando quando queremos descrever o
 
 #Organização com Milestone
 
+Ela é um marco que agrupa Issues relacionadas funcionando quase como um filtro, permitindo acompanhar progresso e auxiliando no controle de prazos
+
+#Gerenciamento com Project
+
+É uma ferramenta que se integra aos issues e pull requests ajudando na organização geral do projeto em equipes informando de forma visual como está o andamentos dos projetos
+
+#Abertura de Pull Request
+
+Solicitação para integrar alterações(não feito)
+
+#Realização de Merge
+
+Ele integra branch à branch principal e palicando officialmente as alterações feitas
