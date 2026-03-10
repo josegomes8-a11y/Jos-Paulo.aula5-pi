@@ -15,10 +15,14 @@ Ele cria um clone/cópia de todo o conteúdo do repositório remoto e envia para
 
 Ele cria uma cópia do repositório original com o intuito de fazer alterações no projeto mas sem comprometer o projeto principal.
 
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/00f10ef658d68235a42b4982532b2b42ae5abd84/branch.png)
+
 # **Commits:**
 
 Ele serve pra catalogar e informar as alterações do prjeto utilizando nomenclaturas dependendo da alteração.
 EX: feat: adiciona uma nova funcionalidade, fix: corrige algum erro, docs: atualiza README
+
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/00f10ef658d68235a42b4982532b2b42ae5abd84/commits.webp)
 
 # **Envio das alterações (push):**
 
@@ -29,9 +33,13 @@ OBS: Antes de fazer push, é necessário fazer commit!
 
 Ele puxa do repositório remoto (nuvem) os dados atualizados para a maquina local
 
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/00f10ef658d68235a42b4982532b2b42ae5abd84/push%20and%20pull.png)
+
 # **Criação de Issues**
 
 Ele serve como ferrameta de acompanhamento indicando quando queremos descrever os problemas que temos nos projetos para que sejam resolvidos por qualquer pessoa que quiser contribuir
+
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/00f10ef658d68235a42b4982532b2b42ae5abd84/issue.jpg)
 
 # **Organização com Milestone**
 
