@@ -5,11 +5,11 @@
 O repositorio é o local onde todo o projeto (codigo fonte,registro de alterações, arquivos do projeto) está localizado.
 De maneira local em uma maquina ou remotamente pela nuvem do proprio github.
 
+![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/4e7755784bf3b249faf60cd99fe9bc6a0743d65f/repositorio-fasouza.png)
+
 # **clone do repositório:**
 
 Ele cria um clone/cópia de todo o conteúdo do repositório remoto e envia para a máquina local
-
-![image alt](https://github.com/josegomes8-a11y/Jos-Paulo.aula5-pi/blob/4e7755784bf3b249faf60cd99fe9bc6a0743d65f/repositorio-fasouza.png)
 
 # **Branch:**
 
