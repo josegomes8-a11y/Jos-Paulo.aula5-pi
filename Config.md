@@ -1,8 +1,10 @@
-craição de um projeto utilizando o django e o venv.
+criação de um projeto utilizando o django e o venv.
 
 primeiro abra a prompt de comandos e coloque
 
-mkdir django_aulas (django_aulas é exemplo mas pode colocar qualqer outro nome)
+mkdir django_aulas 
+(django_aulas é exemplo mas pode colocar qualquer outro nome)
+
 mkdir: (make directory)
 
 e deopis
@@ -16,7 +18,8 @@ python -m venv venv
 para cirar um ambiente dentro da pasta django_aulas
 
 venv/Scripts/activate
-para ativar o ambiente (se der certo vai aparecer um "venv" antes das informações na linha de comandos)
+para ativar o ambiente 
+(se der certo vai aparecer um "venv" antes das informações na linha de comandos)
 EX: (venv)C:\django_aulas
 
 django-admin --version
@@ -33,4 +36,3 @@ para entrar na pasta meu_projeto criada anteriormente
 
 code . 
 para entrar no vscode
-
