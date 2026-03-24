@@ -7,7 +7,7 @@ mkdir django_aulas
 
 mkdir: (make directory)
 
-e deopis
+e depois
 
 cd django_aulas
 cd:(change directory)
