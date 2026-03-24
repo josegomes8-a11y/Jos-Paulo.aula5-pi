@@ -1,4 +1,4 @@
-Criação de um projeto utilizando o django e o venv.
+## Criação de um projeto utilizando o django e o venv.
 
 Primeiro abra a prompt de comandos e coloque
 
@@ -9,7 +9,7 @@ mkdir: (make directory)
 
 E depois
 
-"cd django_aulas"
+" cd django_aulas "
 cd:(change directory)
 
 'cd' para abrir o arquivo que foi criado anteriormente junto com o nome dele
