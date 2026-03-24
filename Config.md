@@ -2,19 +2,19 @@ Criação de um projeto utilizando o django e o venv.
 
 Primeiro abra a prompt de comandos e coloque
 
-´´mkdir django_aulas´´
+``mkdir django_aulas´´
 (Django_aulas é exemplo mas pode colocar qualquer outro nome)
 
 mkdir: (make directory)
 
 E depois
 
-´´cd django_aulas´´
+``cd django_aulas´´
 cd:(change directory)
 
 'cd' para abrir o arquivo que foi criado anteriormente junto com o nome dele
 
-´´python -m venv venv´´
+``python -m venv venv´´
 Para cirar um ambiente dentro da pasta django_aulas
 
 ´´venv/Scripts/activate´´
