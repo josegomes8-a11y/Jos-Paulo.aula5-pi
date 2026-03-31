@@ -2,7 +2,7 @@
 
 Primeiro abra a prompt de comandos e coloque
 
-``mkdir django_aulas´´
+` mkdir django_aulas
 (Django_aulas é exemplo mas pode colocar qualquer outro nome)
 
 mkdir: (make directory)
