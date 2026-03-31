@@ -43,5 +43,4 @@ Cria uma pasta com o nome meu_projeto (pode ser outro nome tambem)
 cd meu_projeto
 Para entrar na pasta meu_projeto criada anteriormente
 
-´´code .´´
-Para entrar no vscode
+use o comando 'code .' Para entrar no vscode
